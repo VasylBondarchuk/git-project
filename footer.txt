@@ -1,2 +1,2 @@
 File3.txt edited locally in new-feature1
-File3.txt edited locally in new-feature1
+Add file footer
