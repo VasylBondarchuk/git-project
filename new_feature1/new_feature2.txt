@@ -1,1 +1,1 @@
-new_feature1.txt edited locally in new-feature1
+new_feature2.txt added in new-feature2
