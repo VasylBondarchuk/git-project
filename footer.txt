@@ -1,3 +1,1 @@
 File3.txt edited locally in new-feature1
-Add to file footer.txt locally
-Add to file footer.txt remotely
